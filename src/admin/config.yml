@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: master
 publish_mode: editorial_workflow
-site_url: "https://example.com"
+site_url: "https://weareresiliant.com"
 media_folder: "src/images"
 public_folder: "/images"
 collections:
@@ -115,4 +115,4 @@ collections:
           - label: "Fonts"
             name: "fonts"
             widget: "hidden"
-            default: { "base": "\"-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'\"", "serif": "\"'Lora', serif\""}
+            default: { "base": "\"'IBM Plex Mono', monospace\"", "serif": "\"Georgia, Times, Times New Roman, serif\""}

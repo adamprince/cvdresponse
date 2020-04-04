@@ -18,12 +18,14 @@
     flex-shrink: 0;
 
     a {
-      color: currentColor;
+      color: var(--color-theme-highlight);
+      text-decoration-color: currentColor;
+      text-decoration-thickness: 2px;
 
       @include apply-utility('weight', 'mid');
 
-      &:not(:hover) {
-        text-decoration: none;
+      &:hover {
+
       }
     }
   }
