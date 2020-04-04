@@ -1,4 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,700;1,400&display=swap');
+/* lora-700 - latin */
+@font-face {
+  font-family: 'Lora';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('Lora Bold'), local('Lora-Bold'),
+    url('/fonts/lora-v13-latin-700.woff2') format('woff2'),
+    url('/fonts/lora-v13-latin-700.woff') format('woff');
+}
 
 body {
   // Strip the unit off the size ratio to generate a line height
