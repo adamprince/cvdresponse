@@ -1,16 +1,20 @@
 ---
 layout: home
 title: We've got this
+metaTitle: ''
+metaDesc: >-
+  Our goal is to help connect small independent businesses with digitally savvy
+  volunteers.
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
 ---
-Small independent businesses are an essential part of our local communities. Under COVID-19 restrictions, they're having to shift how they reach and sell to their customers. The creative community is in a unique position to provide much-needed digital services to those in need.
+Global COVID-19 restrictions are forcing small independent businesses to suddenly shift how they reach their customers. Our goal is to connect them with digitally savvy volunteers who can provide much-needed services.
 
-## I'm a local businesses
+## Are you a small independent business looking for help?
 
-Are you a small business who needs support? Click on the link below to get matched with a creative professional.
+Click on the link below to get matched with a creative professional.
 
-## I'm a creative volunteer
+## Are you a creative professional looking to volunteer?
 
-Are you a creative professional seeking to volunteer? Click on the link below to get matched with a small businesses.
+Click on the link below to get matched with a small independent businesses.
