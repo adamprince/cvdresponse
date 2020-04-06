@@ -1,6 +1,6 @@
 ---
 layout: home
-title: We've got this
+title: We're here to help
 metaTitle: ''
 metaDesc: >-
   Our goal is to help connect small independent businesses with digitally savvy
@@ -9,12 +9,22 @@ postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
 ---
-Global COVID-19 restrictions are forcing small independent businesses to suddenly shift how they reach their customers. Our goal is to connect them with digitally savvy volunteers who can provide much-needed services.
+As the COVID-19 pandemic intensifies, small independent businesses are being forced to suddenly shift how they reach their customers. Now, more than ever, many are taking their businesses online, which puts the digital marketing industry is in a unique position to help.
 
-## Are you a small independent business looking for help?
+Our goal is to connect small independent business with volunteers who specialize in a variety of digital services, including: design, copywriting, strategy, development, marketing, and more.
 
-Click on the link below to get matched with a creative professional.
+We understand that there are many issues that must be addressed in our response to this pandemic. This is our way of contributing.
 
-## Are you a creative professional looking to volunteer?
+# Get started
 
-Click on the link below to get matched with a small independent businesses.
+## For businesses
+
+Are you a small independent business looking for help? Begin the process of getting matched with a digital marketing professional.
+
+[Get started](#)
+
+## For volunteers
+
+Are you a creative professional looking to volunteer? Begin the process of getting matched with a small independent businesses.
+
+[Get started](#)
