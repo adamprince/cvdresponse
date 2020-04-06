@@ -16,7 +16,9 @@
   --color-action-bg: #{get-color('primary')};
   --color-action-text: #{get-color('light')};
   --color-theme-primary: #{get-color('primary')};
+  --color-theme-primary-shade: #{get-color('primary-shade')};
   --color-theme-primary-glare: #{get-color('primary-glare')};
+  --color-theme-secondary: #{get-color('secondary')};
   --color-theme-highlight: #{get-color('highlight')};
   --color-theme-highlight-block: #{get-color('highlight')};
 }

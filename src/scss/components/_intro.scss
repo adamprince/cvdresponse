@@ -6,7 +6,7 @@
     font-size: get-size(500);
 
     a {
-      color: currentColor;
+      color: var(--color-theme-secondary);
 
       &:hover {
         text-decoration: none;

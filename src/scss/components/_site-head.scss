@@ -1,7 +1,8 @@
 .site-head {
+  background-color: var(--color-text);
   &__site-name {
     font-weight: 700;
     text-decoration: none;
-    color: var(--color-text);
+    color: var(--color-theme-highlight);
   }
 }

@@ -19,7 +19,7 @@
 
     a {
       color: var(--color-theme-highlight);
-      text-decoration-color: currentColor;
+      text-decoration-color: var(--color-theme-secondary);
       text-decoration-thickness: 2px;
 
       @include apply-utility('weight', 'mid');
