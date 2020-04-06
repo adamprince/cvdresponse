@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
 title: Creatives
-permalink: /creatives
+permalink: ''
 ---
 Lorem ipsum
