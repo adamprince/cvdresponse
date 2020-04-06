@@ -6,12 +6,12 @@
       "external": false
     },
     {
-      "url": "/creatives",
-      "text": "Creatives"
+      "url": "/pages/volunteers",
+      "text": "Volunteers"
     },
     {
       "text": "Businesses",
-      "url": "/businesses"
+      "url": "/pages/businesses"
     }
   ]
 }

@@ -17,13 +17,13 @@ We understand that there are many issues that must be addressed in our response 
 
 # Get started
 
-## For businesses
+### For businesses
 
 Are you a small independent business looking for help? Begin the process of getting matched with a digital marketing professional.
 
 [Get started](#)
 
-## For volunteers
+### For volunteers
 
 Are you a creative professional looking to volunteer? Begin the process of getting matched with a small independent businesses.
 
