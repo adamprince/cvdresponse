@@ -3,7 +3,7 @@ layout: home
 title: 'San Diego, we''re here to help'
 metaTitle: ''
 metaDesc: >-
-  Doing our best to connect San Diego-based small businesses with volunteers
+  Doing our best to match San Diego-based small businesses with volunteers
   providing free digital marketing services.
 postsHeading: Latest posts
 archiveButtonText: See all posts
