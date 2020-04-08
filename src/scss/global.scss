@@ -40,6 +40,12 @@ hr {
   margin: get-size(900) auto;
 }
 
+// Wrangle social button alignment
+.fb_iframe_widget span,
+.twitter-share-button {
+  vertical-align: middle !important;
+}
+
 /**
  * PROJECT IMPORTS
  */
