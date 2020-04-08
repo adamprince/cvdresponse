@@ -1,12 +1,14 @@
 {
   "items": [
     {
-      "url": "/pages/volunteers",
-      "text": "Volunteers"
+      "text": "Business help",
+      "url": "https://forms.gle/J5sQwBrQMHR8zHxD8",
+      "external": true
     },
     {
-      "text": "Businesses",
-      "url": "/pages/businesses"
+      "url": "https://forms.gle/Jx58baZm1QhGkQH19",
+      "text": "Volunteer with us",
+      "external": true
     }
   ]
 }
