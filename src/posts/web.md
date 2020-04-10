@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Web design/development
+title: Web design & development
 date: 2020-04-10T05:07:39.322Z
 tags:
   - services
