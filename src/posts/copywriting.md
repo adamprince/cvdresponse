@@ -5,4 +5,4 @@ date: 2020-04-10T05:08:49.316Z
 tags:
   - services
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum elementum quam nec massa placerat ultricies.
+We'll help you find and refine your brand's "voice" so that you speak to your customers in an authentic and engaging way.
