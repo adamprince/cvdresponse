@@ -2,6 +2,7 @@
 //  background-color: var(--color-text);
   &__site-name {
     color: var(--color-color-text);
+    display: inherit;
     font-weight: 700;
     text-decoration: none;
   }

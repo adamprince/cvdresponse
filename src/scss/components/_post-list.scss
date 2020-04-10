@@ -3,7 +3,7 @@
     @include media-query('md') {
       display: grid;
       grid-template-columns: 1fr 1fr 1fr;
-      grid-column-gap: 1rem;
+      grid-gap: #{get-size(700)};
     }
   }
   &__item {

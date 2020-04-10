@@ -138,4 +138,13 @@
       padding: 0.4rem 0.6rem;
     }
   }
+
+  &--preview {
+    > h3 {
+      font-size: var(--step--1);
+    }
+    > p {
+      font-size: var(--step--1);
+    }
+  }
 }

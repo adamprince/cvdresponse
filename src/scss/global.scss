@@ -31,6 +31,11 @@ main {
   }
 }
 
+// Color the logo cross
+path.cls-2 {
+  fill: var(--color-theme-secondary);
+}
+
 hr {
   display: block;
   height: 2px;

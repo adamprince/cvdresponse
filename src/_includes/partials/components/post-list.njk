@@ -1,11 +1,13 @@
 {% if postListItems.length %}
-<div class="[ post-list ] [ pad-top-700 gap-bottom-900 ]">
-  <h2 class="[ post-list__heading ]">{{ postListHeading }}</h2>
+<div class="[ post-list ] [ gap-bottom-900 ]">
+  <h2 class="[ post-list__heading ] [ gap-bottom-300 ]">We can help with</h2>
   <div class="[ post-list__items ] [ pad-top-300 ]">
   {% for item in postListItems %}
     <div class="post-list__item">
-      <h3 class="font-base">{{ item.data.title }}</h3>
-      <p>{{ item.data.summary }}</p>
+      <article class="post post--preview">
+        <h3 class="[ gap-bottom-300 ]">{{ item.data.title }}</h3>
+        {{ item.data.content | safe }}
+      </article>
     </div>
   {% endfor %}
   </div>
