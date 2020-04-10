@@ -5,4 +5,4 @@ date: 2020-04-10T05:08:49.316Z
 tags:
   - services
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum elementum quam nec massa placerat ultricies.
+We can help you create original photo and video content or edit what you already have.
