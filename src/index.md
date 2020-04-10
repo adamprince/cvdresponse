@@ -1,6 +1,6 @@
 ---
 layout: home
-title: San Diego, we've got this
+title: We've got this
 metaTitle: ""
 metaDesc: Doing our best to match independent San Diego-based restaurants with
   volunteers providing free digital marketing services.
