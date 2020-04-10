@@ -1,8 +1,9 @@
 ---
 layout: home
-title: We can help with
+title: San Diego, we've got this
 metaTitle: ""
-metaDesc: Doing our best to match independent San Diego-based restaurants with volunteers providing free digital marketing services.
+metaDesc: Doing our best to match independent San Diego-based restaurants with
+  volunteers providing free digital marketing services.
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ""
