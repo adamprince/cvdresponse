@@ -1,6 +1,6 @@
 {% if postListItems.length %}
 <div class="[ post-list ] [ gap-bottom-900 ]">
-  <h2 class="[ post-list__heading ] [ gap-bottom-300 ]">We can help with</h2>
+  <h2 class="[ post-list__heading ] [ gap-bottom-300 ]">{{ postListHeading }}</h2>
   <div class="[ post-list__items ] [ pad-top-300 ]">
   {% for item in postListItems %}
     <div class="post-list__item">

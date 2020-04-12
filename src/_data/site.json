@@ -4,10 +4,10 @@
   "shortDesc": "Doing our best to match independent San Diego-based restaurants with volunteers providing free digital marketing services.",
   "url": "https://mutualaidsd.com",
   "authorEmail": "adam@adamprince.us",
-  "authorHandle": "studioaprince",
+  "authorHandle": "mutualaidsd",
   "authorName": "Adam Prince",
   "enableThirdPartyComments": false,
   "paymentPointer": "$coil.xrptipbot.com/c1f8f05d-8d8c-4f37-b1ad-25677ae129da",
   "faviconPath": "/images/favicon.png",
-  "maxPostsPerPage": 5
+  "maxPostsPerPage": 9
 }

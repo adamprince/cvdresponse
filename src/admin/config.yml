@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: master
 publish_mode: editorial_workflow
-site_url: "https://weareresiliant.com"
+site_url: "https://mutualaidsd.com"
 media_folder: "src/images"
 public_folder: "/images"
 collections:
@@ -114,5 +114,5 @@ collections:
               - {label: "Slate", name: "slate", widget: "string", default: "hsl(0, 0%, 25%)"}
           - label: "Fonts"
             name: "fonts"
-            widget: "hidden"
-            default: { "base": "\"'IBM Plex Mono', monospace\"", "serif": "\"Georgia, Times, Times New Roman, serif\""}
+            widget: "object"
+            default: { "base": "\"'IBM Plex Sans', sans-serif\"", "serif": "\"'IBM Plex Serif', Georgia, serif\""}

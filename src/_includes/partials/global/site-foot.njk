@@ -13,12 +13,16 @@
     <div>
       <nav class="nav" aria-label="{{ariaLabel}}">
         <ul class="[ nav__list ] [ box-flex ]">
+          {% if site.authorEmail %}
           <li class="nav__item">
-            <a href="mailto:adam@adamprince.us?subject=General inquiry about Mutual Aid San Diego">Get in touch</a>
+            <a href="mailto:{{ site.authorEmail }}?subject=General inquiry about Mutual Aid San Diego">Get in touch</a>
           </li>
+          {% endif %}
+          {% if site.authorHandle %}
           <li class="nav__item">
-            <a href="https://twitter.com/mutualaidsd" target="_blank">@mutualaidsd</a>
+            <a href="https://twitter.com/{{ site.authorHandle }}" target="_blank">@{{ site.authorHandle }}</a>
           </li>
+          {% endif %}
           <li class="nav__item">
             <a href="https://sandiegomutualaid.slack.com/archives/C011WSZMFQQ" target="_blank">Our Slack channel</a>
           </li>
