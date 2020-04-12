@@ -1,8 +1,8 @@
 .site-foot {
   // Reverse whatever the theme colors are
   background-color: var(--color-text);
-  color: var(--color-theme-highlight);
-  text-decoration-color: var(--color-theme-highlight);
+  color: var(--color-bg-glare);
+  text-decoration-color: var(--color-bg-glare);
 
   a {
     color: currentColor;
