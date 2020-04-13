@@ -1,6 +1,9 @@
 ---
-title: 'Thank you'
-permalink: '/thank-you/index.html'
+title: Thanks for your interest
+permalink: /thank-you/index.html
 ---
+We've received your message and we'll get back to you as soon as we can.
 
-This is your thank you page where if someone fills in your contact form, they will be directed to. Make sure you add a nice message 🙂
+Join our [slack](https://sandiegomutualaid.slack.com)
+
+Follow us on [Twitter](https://twitter.com/mutualaidsd)
