@@ -1,8 +1,9 @@
 .button {
-  display: inline-block;
-  border: none;
   background-color: var(--color-theme-secondary);
+  border: none;
   color: var(--color-action-text);
+  display: inline-block;
+  font-size: inherit;
   padding: get-size(300) get-size('base');
   line-height: 1;
   margin: 0;
