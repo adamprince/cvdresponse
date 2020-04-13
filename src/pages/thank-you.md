@@ -1,5 +1,5 @@
 ---
-title: Thank you
+title: Thanks for your interest
 permalink: /thank-you/index.html
 ---
 We've received your message and we'll get back to you as soon as we can.
