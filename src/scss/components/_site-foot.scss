@@ -1,8 +1,10 @@
 .site-foot {
+  border-top: 2px solid var(--color-stroke);
+    font-size: var(--step--1);
   // Reverse whatever the theme colors are
-  background-color: var(--color-text);
-  color: var(--color-bg-glare);
-  text-decoration-color: var(--color-bg-glare);
+//  background-color: var(--color-text);
+//  color: var(--color-bg-glare);
+//  text-decoration-color: var(--color-bg-glare);
 
   a {
     color: currentColor;
@@ -13,6 +15,5 @@
   }
 
   &__credit {
-    font-size: var(--step--1);
   }
 }
