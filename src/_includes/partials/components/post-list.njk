@@ -4,7 +4,7 @@
   <div class="[ post-list__items ] [ pad-top-300 ]">
   {% for item in postListItems %}
     <div class="post-list__item">
-      <article class="post post--preview">
+      <article class="post post--preview [ gap-bottom-600 ]">
         <h3 class="[ gap-bottom-300 ]">{{ item.data.title }}</h3>
         {{ item.data.content | safe }}
       </article>
