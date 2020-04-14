@@ -8,4 +8,4 @@ postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ""
 ---
-As the COVID-19 pandemic intensifies, independent San Diego-based restaurants are having to suddenly shift how they reach their customers. Many are taking their businesses online for the first time, putting digital marketing experts in a unique position to help.
+The COVID-19 pandemic has forced independent San Diego-based restaurants to suddenly shift how they reach their customers. Many are going digital for the first time and/or integrating new tools to improve their efficiency. This puts digital marketing experts in a unique position to help.
