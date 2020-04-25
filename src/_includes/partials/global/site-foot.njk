@@ -18,9 +18,19 @@
             <a href="/contact">Contact</a>
           </li>
           {% endif %}
-          {% if site.authorHandle %}
+          {% if site.authorTwitterHandle %}
           <li class="nav__item">
-            <a href="https://twitter.com/{{ site.authorHandle }}" target="_blank">@{{ site.authorHandle }}</a>
+            <a href="https://twitter.com/{{ site.authorTwitterHandle }}" target="_blank">Twitter</a>
+          </li>
+          {% endif %}
+          {% if site.authorInstagramHandle %}
+          <li class="nav__item">
+            <a href="https://twitter.com/{{ site.authorInstagramHandle }}" target="_blank">Instagram</a>
+          </li>
+          {% endif %}
+          {% if site.authorFacebookPage %}
+          <li class="nav__item">
+            <a href="https://twitter.com/{{ site.authorFacebookPage }}" target="_blank">Facebook</a>
           </li>
           {% endif %}
           <li class="nav__item">
