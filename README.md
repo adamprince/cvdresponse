@@ -14,13 +14,13 @@ The COVID-19 pandemic has forced independent San Diego-based restaurants to sudd
 
 We could use some help in the following areas:
 
-###Help spread the word
+### Help spread the word
 
 One of our biggest challenges is getting the word out. We'd be stoked if you could share our project on social media.
 
 Note: At the moment, we're only able to serve independent **San Diego-based** restaurants.
 
-###Volunteer
+### Volunteer
 
 We are seeking volunteers in the following areas:
 
