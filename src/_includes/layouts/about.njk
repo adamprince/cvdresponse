@@ -1,0 +1,15 @@
+{% extends 'layouts/base.njk' %}
+
+{# Intro content #}
+{% set introHeading = title %}
+
+{% block content %}
+  <main id="main-content" tabindex="-1">
+    {% include "partials/components/intro.njk" %}
+    <div class="[ inner-wrapper ] [ pad-top-900 pad-bottom-900 ]">
+      <div class="[ post-list__items ] [ pad-top-300 ]">
+        {% include "partials/components/volunteer.njk" %}
+      </div>
+    </div>
+  </main>
+{% endblock %}

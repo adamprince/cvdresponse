@@ -6,13 +6,14 @@
           <article class="[ site-foot__details ] [ sf-flow measure-compact ] [ gap-bottom-600 ]">
             <h3>About</h3>
             {{ site.shortDesc | markdownFilter | safe }}
+            <a href="/about" class="site-foot__about-link">Read more</a>
           </article>
         </div>
       {% endif %}
     </div>
     <div>
       <nav class="nav" aria-label="{{ariaLabel}}">
-        <ul class="[ nav__list ] [ box-flex ]">
+        <ul class="[ nav__list ] [ box-flex ] nav__list--social">
           {% if site.authorEmail %}
           <li class="nav__item">
             <a href="/contact">Contact</a>
@@ -33,9 +34,6 @@
             <a href="https://www.facebook.com/{{ site.authorFacebookPage }}" target="_blank">Facebook</a>
           </li>
           {% endif %}
-          <li class="nav__item">
-            <a href="https://sandiegomutualaid.slack.com/archives/C011WSZMFQQ" target="_blank">Our Slack</a>
-          </li>
         </ul>
       </nav>
     </div>

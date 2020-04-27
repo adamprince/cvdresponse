@@ -5,9 +5,15 @@
 //  background-color: var(--color-text);
 //  color: var(--color-bg-glare);
 //  text-decoration-color: var(--color-bg-glare);
+  &__about-link {
+    display: inline;
+  }
 
   a {
-    color: currentColor;
+    color: var(--color-color-text);
+    font-size: var(--step--1);
+    text-decoration-color: var(--color-theme-secondary);
+    text-decoration-thickness: 2px;
 
     &:hover {
 

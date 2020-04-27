@@ -1,0 +1,26 @@
+.volunteer {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  font-size: var(--step--1);
+  &__image {
+    background-color: pink;
+    border-radius: 50%;
+    flex-shrink: 0;
+    object-fit: cover;
+    height: 160px;
+    width: 160px;
+  }
+  &__info {
+    text-align: center;
+  }
+  &__link {
+
+  }
+  &__name {
+    font-size: var(--step--1);
+  }
+  &__superpower {
+
+  }
+}
