@@ -1,6 +1,6 @@
 ---
 layout: home
-title: We've got this
+title: Mutual Aid SD
 metaTitle: ""
 metaDesc: Doing our best to match independent San Diego-based restaurants with
   volunteers providing free digital marketing services.
