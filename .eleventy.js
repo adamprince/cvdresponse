@@ -30,6 +30,7 @@ module.exports = function(config) {
   // Passthrough copy
   config.addPassthroughCopy('src/fonts');
   config.addPassthroughCopy('src/images');
+  config.addPassthroughCopy('src/assets');
   config.addPassthroughCopy('src/js');
   config.addPassthroughCopy('src/admin/config.yml');
   config.addPassthroughCopy('src/admin/previews.js');
@@ -55,7 +56,7 @@ module.exports = function(config) {
   config.addPlugin(rssPlugin);
   config.addPlugin(syntaxHighlight);
 
-  // 404 
+  // 404
   config.setBrowserSyncConfig({
     callbacks: {
       ready: function(err, browserSync) {

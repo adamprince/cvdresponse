@@ -5,11 +5,15 @@
 
 {% block content %}
   <main id="main-content" tabindex="-1">
-    {% include "partials/components/intro.njk" %}
-    <div class="[ inner-wrapper ] [ pad-top-900 pad-bottom-900 ]">
-      <div class="[ post-list__items ] [ pad-top-300 ]">
-        {% include "partials/components/volunteer.njk" %}
+    <article class="[ post ] [ h-entry ]">
+      {% include "partials/components/intro.njk" %}
+      <div class="[ post__body ] [ inner-wrapper ] [ leading-loose pad-top-900 pad-bottom-900 text-500 ] [ sf-flow ] [ e-content ]">
+        <div class="[ post-list__items ] [ pad-top-300 ]">
+          {% include "partials/components/volunteer.njk" %}
+        </div>
       </div>
-    </div>
+    </article>
   </main>
 {% endblock %}
+
+{{ content | safe }}
