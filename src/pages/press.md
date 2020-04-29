@@ -27,22 +27,22 @@ We have a diverse team of volunteers that can help in the following areas:
 * eCommerce
 * PR/media
 
-## How it works: for restaurants in need
+## How it works: for restaurants
 
-1. Submit a form describing the kind of help you need
+1. [Submit a form](https://forms.gle/J5sQwBrQMHR8zHxD8) describing the kind of help you need
 2. Our team will assess your request
 3. We’ll do our best to match you with one or more digital marketing specialists
 4. Depending on your need and our capacity, we’ll spend up to five (5) days helping you address your most urgent digital marketing challenges
 
 ## How it works: for volunteers
 
-1. Submit a form telling us how you're able to help.
+1. [Submit a form](https://forms.gle/Jx58baZm1QhGkQH19) telling us how you're able to help.
 2. We’ll add you to our list and send you onboarding materials
 3. Based on your skills and availability, we’ll do our best to match you with a restaurant in need
 
 ## Contact
 
-If you would like to speak with someone from our team, please fill out our [contact form](/contact). We usually respond within 1 business day.
+If you would like to speak with someone from our team, please fill out our [contact form](/contact). We usually respond within two business days.
 
 * **Twitter:** [twitter.com/mutualaidsd](https://twitter.com/mutualaidsd)
 * **Instagram:** [instagram.com/mutualaidsd](https://www.instagram.com/mutualaidsd)
