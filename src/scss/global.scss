@@ -14,7 +14,7 @@
 /**
  * GLOBAL STYLES
  */
-html, body {
+html {
   height: 100%;
 }
 
@@ -26,6 +26,7 @@ body {
 
 main {
   flex: 1 0 auto;
+
   &:focus {
     outline: none;
   }

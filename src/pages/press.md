@@ -1,8 +1,6 @@
 ---
-layout: layouts/page.njk
 title: Press Kit
 permalink: /press/index.html
-metaTitle: Press Kit
 ---
 [Download PDF version of this page](/assets/MutualAidSD_PressRelease.pdf)
 

@@ -3,4 +3,4 @@ layout: layouts/about.njk
 title: About
 permalink: /about/index.html
 ---
-Thanks so much for your interest! We'll try to respond to your inquiry within two business days.
+Mutual Aid SD is an all-volunteer network providing free digital marketing assistance to independent San Diego-based restaurants.

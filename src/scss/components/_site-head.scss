@@ -1,5 +1,9 @@
 .site-head {
-//  background-color: var(--color-text);
+  background-color: var(--color-bg);
+  position: sticky;
+  top: 0;
+  z-index: 1;
+
   &__site-logo {
     margin-right: 1ch;
   }
