@@ -39,9 +39,9 @@ We have a diverse team of volunteers that can help in the following areas:
 ## Contact
 If you would like to speak with someone from our team, please fill out our [contact form](/contact). We usually respond within 1 business day.
 
-**Twitter:** [twitter.com/mutualaidsd](https://twitter.com/mutualaidsd)
-**Instagram:** [instagram.com/mutualaidsd](https://www.instagram.com/mutualaidsd)
-**Facebook:** [fb.me/mutualaidsd](https://fb.me/mutualaidsd)
+- **Twitter:** [twitter.com/mutualaidsd](https://twitter.com/mutualaidsd)
+- **Instagram:** [instagram.com/mutualaidsd](https://www.instagram.com/mutualaidsd)
+- **Facebook:** [fb.me/mutualaidsd](https://fb.me/mutualaidsd)
 
 ## Logo
 Download high-res print- and web-ready versions of our logo.
