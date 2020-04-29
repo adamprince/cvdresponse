@@ -52,4 +52,4 @@ If you would like to speak with someone from our team, please fill out our [cont
 
 Download high-res print- and web-ready versions of our logo.
 
-[Download](/assets/font-files-mutual-aid-sd.zip)
+[Download](/assets/logo-files-mutual-aid-sd.zip)
