@@ -13,11 +13,6 @@
     <div>
       <nav class="nav" aria-label="{{ariaLabel}}">
         <ul class="[ nav__list ] [ box-flex ] nav__list--social">
-          {% if site.authorEmail %}
-          <li class="nav__item">
-            <a href="/contact">Contact</a>
-          </li>
-          {% endif %}
           {% if site.authorTwitterHandle %}
           <li class="nav__item">
             <a href="https://twitter.com/{{ site.authorTwitterHandle }}" target="_blank">Twitter</a>

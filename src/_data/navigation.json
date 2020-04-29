@@ -1,13 +1,23 @@
 {
   "items": [
     {
-      "text": "Get marketing help",
-      "url": "https://forms.gle/J5sQwBrQMHR8zHxD8",
-      "external": true
+      "url": "https://forms.gle/Jx58baZm1QhGkQH19",
+      "text": "About",
+      "external": false
+    },
+    {
+      "url": "https://forms.gle/Jx58baZm1QhGkQH19",
+      "text": "Press",
+      "external": false
     },
     {
       "url": "https://forms.gle/Jx58baZm1QhGkQH19",
       "text": "Volunteer",
+      "external": true
+    },
+    {
+      "text": "Request help",
+      "url": "https://forms.gle/J5sQwBrQMHR8zHxD8",
       "external": true
     }
   ]
