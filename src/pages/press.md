@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
-title: Press
+title: Press Kit
 permalink: /press/index.html
 metaTitle: Press Kit
 ---
