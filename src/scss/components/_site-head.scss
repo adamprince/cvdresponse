@@ -1,8 +1,12 @@
 .site-head {
 //  background-color: var(--color-text);
+  &__site-logo {
+    margin-right: 1ch;
+  }
   &__site-name {
+    align-items: center;
     color: var(--color-color-text);
-    display: inherit;
+    display: flex;
     font-weight: 700;
     text-decoration: none;
   }
