@@ -4,6 +4,8 @@ title: Press
 permalink: /press/index.html
 metaTitle: Press Kit
 ---
+[Download PDF version of this page](https://twitter.com/mutualaidsd)
+
 # Project overview
 The goal of Mutual Aid SD is to match independent San Diego-based restaurants with volunteers providing free digital marketing services. The COVID-19 pandemic has forced independent San Diego-based restaurants to suddenly shift how they reach their customers. Many are going digital for the first time and/or integrating new tools to grow their capacity. This puts digital marketing experts in a unique position to help.
 
@@ -35,8 +37,13 @@ We have a diverse team of volunteers that can help in the following areas:
 3. Based on your skills and availability, we’ll do our best to match you with a restaurant in need
 
 ## Contact
-[Contact form](/contact)
+If you would like to speak with someone from our team, please fill out our [contact form](/contact). We usually respond within 1 business day.
 
-- Twitter: [twitter.com/mutualaidsd](https://twitter.com/mutualaidsd)
-- Instagram: [instagram.com/mutualaidsd](https://www.instagram.com/mutualaidsd)
-- Facebook: [fb.me/mutualaidsd](https://fb.me/mutualaidsd)
+**Twitter:** [twitter.com/mutualaidsd](https://twitter.com/mutualaidsd)
+**Instagram:** [instagram.com/mutualaidsd](https://www.instagram.com/mutualaidsd)
+**Facebook:** [fb.me/mutualaidsd](https://fb.me/mutualaidsd)
+
+## Logo
+Download high-res print- and web-ready versions of our logo.
+
+[Download](https://twitter.com/mutualaidsd)
