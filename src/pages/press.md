@@ -48,8 +48,8 @@ If you would like to speak with someone from our team, please fill out our [cont
 * **Instagram:** [instagram.com/mutualaidsd](https://www.instagram.com/mutualaidsd)
 * **Facebook:** [fb.me/mutualaidsd](https://fb.me/mutualaidsd)
 
-## Logo
+## Logos
 
-Download high-res print- and web-ready versions of our logo.
+Download our logos for use in print and digital.
 
-[Download](/assets/font-files-mutual-aid-sd.zip)
+[Download (zip)](/assets/logo-files-mutual-aid-sd.zip)
