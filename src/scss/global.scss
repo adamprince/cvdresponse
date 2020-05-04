@@ -19,6 +19,7 @@ html {
 }
 
 body {
+//  background-color: #fef6f6;
   scroll-behavior: smooth;
   display: flex;
   flex-direction: column;
@@ -36,7 +37,7 @@ hr {
   display: block;
   height: 2px;
   max-width: 100%;
-  background: var(--color-stroke);
+  background-color: var(--color-stroke);
   border: none;
   margin: get-size(900) auto;
 }
@@ -70,4 +71,3 @@ hr {
 @import 'components/skip-link';
 @import 'components/syntax-highlighting';
 @import 'components/video-player';
-@import 'components/volunteer';

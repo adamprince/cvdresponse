@@ -1,13 +1,17 @@
 {% if postListItems.length %}
-<div class="[ post-list ] [ gap-bottom-900 ]">
-  <h2 class="[ post-list__heading ] [ gap-bottom-300 ]">{{ postListHeading }}</h2>
+<div class="[ post-list ]">
   <div class="[ post-list__items ] [ pad-top-300 ]">
   {% for item in postListItems %}
-    <div class="post-list__item">
-      <article class="post post--preview [ gap-bottom-600 ]">
-        <h3 class="[ gap-bottom-300 ]">{{ item.data.title }}</h3>
+    <div class="post-list__item [ gap-bottom-900 ]">
+      {% if item.image %}
+      <img srcset="/images/volunteers/volunteer-{{ item.image }}.jpg,
+      /images/volunteers/volunteer-{{ item.image }}@2x.jpg 2x"
+      src="/images/volunteers/volunteer-{{ item.image }}.jpg" alt="{{ item.name }} headshot" class="post-list__image">
+      {% endif %}
+      <div class="post-list__body">
+        <h3 class="post-list__heading [ post-list__heading ] [ gap-top-300 ] [ gap-bottom-300 ]">{{ item.data.title }}</h3>
         {{ item.data.content | safe }}
-      </article>
+      </div>
     </div>
   {% endfor %}
   </div>

@@ -2,20 +2,16 @@
 
 {# Intro content #}
 {% set introHeading = title %}
+{% set introSummary %}{{ content | safe }}{% endset %}
 
 {% block content %}
-  <main id="main-content" tabindex="-1">
-    <article class="[ post ] [ h-entry ]">
-      {% include "partials/components/intro.njk" %}
-      <div class="[ post__body ] [ inner-wrapper ] [ pad-top-900 pad-bottom-900 ] [ sf-flow ] [ e-content ]">
-        {{ content | safe }}
-        <h2>Volunteer-led</h2>
-        <div class="[ post-list__items ] [ pad-top-900 ]">
-          {% include "partials/components/volunteer.njk" %}
-        </div>
-      </div>
-    </article>
-  </main>
+  {% include "partials/components/intro.njk" %}
+  <section class="[ pad-top-900 pad-bottom-900 ]">
+    <header class="[ gap-top-900 gap-bottom-900 ] text-center">
+      <h1>Volunteers</h1>
+    </header>
+    <div class="[ inner-wrapper ]">
+      {% include "partials/components/volunteer-list.njk" %}
+    </div>
+  </section>
 {% endblock %}
-
-{{ content | safe }}

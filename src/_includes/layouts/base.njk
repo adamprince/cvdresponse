@@ -16,8 +16,10 @@
   <div id="fb-root"></div>
   <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v6.0"></script>
   {% include "partials/global/site-head.njk" %}
-  {% block content %}
-  {% endblock content %}
+  <main id="main-content" tabindex="-1">
+    {% block content %}
+    {% endblock content %}
+  </main>
   {% include "partials/global/site-foot.njk" %}
   {% block foot %}
   {% endblock %}

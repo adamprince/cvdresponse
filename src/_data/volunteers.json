@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "name": "Magda Aguirre",
+      "url": "vivamagdastudio.com",
+      "label": "Personal site",
+      "image": "magdaaguirre",
+      "superpower": "Content creation"
+    },
+    {
+      "name": "Yomar Augusto",
+      "url": "linkedin.com/in/yomaraugusto",
+      "label": "LinedIn",
+      "image": "yomaraugusto",
+      "superpower": "Content creation"
+    },
+    {
+      "name": "Jonathan Bron",
+      "url": "linkedin.com/in/jonathan-bron",
+      "label": "LinedIn",
+      "image": "jonathanbron",
+      "superpower": "Business analysis"
+    },
+    {
+      "name": "Josh Doiron",
+      "url": "linkedin.com/in/joshdoiron",
+      "label": "LinedIn",
+      "image": "joshdoiron",
+      "superpower": "Business analysis"
+    },
+    {
+      "name": "Amanda Frank",
+      "url": "linkedin.com/in/amandajoyfrank",
+      "label": "LinedIn",
+      "image": "amandafrank",
+      "superpower": "Web design/development"
+    },
+    {
+      "name": "Adam Prince",
+      "url": "adamprince.us",
+      "label": "Personal site",
+      "image": "adamprince",
+      "superpower": "Project Coordinator"
+    },
+    {
+      "name": "Phelan Riessen",
+      "url": "linkedin.com/in/phelanriessen",
+      "label": "LinedIn",
+      "image": "phelanriessen",
+      "superpower": "Web design/development"
+    },
+    {
+      "name": "Adam Wood",
+      "url": "linkedin.com/in/adamjwood00",
+      "label": "LinedIn",
+      "image": "adamwood",
+      "superpower": "Digital strategy"
+    }
+  ]
+}
