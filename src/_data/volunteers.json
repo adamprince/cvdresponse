@@ -22,6 +22,13 @@
       "superpower": "Business analysis"
     },
     {
+      "name": "Steve Dolan",
+      "url": "https://mogrifystudio.com",
+      "label": "Personal site",
+      "image": "stevedolan",
+      "superpower": "Digital strategy"
+    },
+    {
       "name": "Josh Doiron",
       "url": "https://linkedin.com/in/joshdoiron",
       "label": "LinkedIn",
@@ -34,6 +41,20 @@
       "label": "LinkedIn",
       "image": "amandafrank",
       "superpower": "Web design/development"
+    },
+    {
+      "name": "Bri Grajkowski",
+      "url": "https://www.brigeeski.com",
+      "label": "Personal site",
+      "image": "brigrajkowski",
+      "superpower": "Content creation"
+    },
+    {
+      "name": "Ahab Nimry",
+      "url": "http://www.gutbranding.co",
+      "label": "Personal site",
+      "image": "ahabnimry",
+      "superpower": "Creative, design, branding"
     },
     {
       "name": "Adam Prince",
